@@ -1,2 +1,2 @@
 # Python-for-data-analyst
-![IMG_20231018_142012.jpg]()
+![gambar](IMG_20231018_142012.jpg)
